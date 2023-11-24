@@ -29,5 +29,6 @@ Cluster analysis based on the core idea of objects being more related to nearby 
 
 This project utilized [Tatwik.jpg](https://github.com/Tatwik19/PyDFA-PCA-ImageComp/blob/main/Project_2_Imgcompression/Tatwik.jpg)
 
+
 ***
 Packages used: pandas, numpy, matplotlib, sklearn, PIL, and os
